@@ -1,6 +1,5 @@
 class config:
-    BOT_TOKEN = "Kenil Patel, [14.05.21 10:52]
-1814619402:AAF0gwuqQTmSR-W0HZeLhnUqGZs3ewCprLo"
+    BOT_TOKEN = "1814619402:AAF0gwuqQTmSR-W0HZeLhnUqGZs3ewCprLo"
     APP_ID = " 939847"
     API_HASH = "8239960da0674fef61884844c0ba79b6
  "
